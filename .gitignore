@@ -158,3 +158,6 @@ cython_debug/
 # SQLite Database local
 financas.db
 financas.db-journal
+
+# Presentation                                                                                        │
+APRESENTACAO_PROJETO.md 
