@@ -159,5 +159,8 @@ cython_debug/
 financas.db
 financas.db-journal
 
-# Presentation                                                                                        │
-APRESENTACAO_PROJETO.md 
+# Presentation
+APRESENTACAO_PROJETO.md
+APRESENTACAO_TECNICA.md
+PREPARACAO_BANCA_PERGUNTAS.md
+ROTEIRO_FALA_APRESENTACAO.md
